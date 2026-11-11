@@ -43,7 +43,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4100&pause=1000&color=F3E5C2&width=500&lines=BLESS+YOUR+SOULS+MIGHTY+ONE+.+.+.+" alt="Typing SVG" /></a><div align="center">
   
-  <p align="right">
+<p align="right">
 <img width="212" height="200" alt="de150779-bf30-453b-9ed6-267e302077c7" src="https://github.com/user-attachments/assets/b2d56ad3-b5f8-4684-b364-2c907197432f" />
 
 <p align="center">
@@ -59,25 +59,35 @@
 <p align="left">
 <img width="212" height="200" alt="☀️Telamon f(an)art, art by me_" src="https://github.com/user-attachments/assets/94654b82-0b49-43b6-b24e-a87c213dadfe" />
 
-  <p align="right">
+<p align="right">
 <img width="212" height="200" alt="Telamon fanart" src="https://github.com/user-attachments/assets/b22468ed-7a4c-4855-bda9-d477469491f1" />
 
-  <p align="left">
+<p align="left">
 <img width="212" height="200" alt="Telamon" src="https://github.com/user-attachments/assets/9a46cbf5-71b3-497c-8df0-84df5ca7689e" />
 
-  <p align="right">
+<p align="right">
 <img width="212" height="200" alt="telamon (1)" src="https://github.com/user-attachments/assets/f152037b-852c-44dd-97b8-d4bf5b326738" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4100&pause=1000&color=F3E5C2&width=500&lines=I+LOVE+YOU+LIKE+ROBLOXIA+HONEY+.+.+" alt="Typing SVG" /></a><div align="center">
 
-  <p align="center">
+<p align="center">
 <img width="790" height="700" alt="6a3e564c-9f9f-4b42-a8d8-aae070acceff" src="https://github.com/user-attachments/assets/8f241743-c91f-4a32-b362-a78b4b8de7da" />
 
     Credits to all the creators of the PFPs  ✦  Thank you all for visitin'! that's a lot of pictures. ; v ;
 
+<p align="left">
+<img width="200" height="200" alt="1b69d65531be9fb348ba3f87d5e99882" src="https://github.com/user-attachments/assets/5e513027-d5ac-48a4-81c1-dc95bbf89e89" />
+
+<p align="right">
+<img width="200" height="200" alt="73470237a8094aed58a91081c3bcb87a" src="https://github.com/user-attachments/assets/7ad85fad-7d71-4580-8b9a-775c17632349" />
+
+
+
 <p align="center">
-<img width="328" height="287" alt="1b69d65531be9fb348ba3f87d5e99882" src="https://github.com/user-attachments/assets/5e513027-d5ac-48a4-81c1-dc95bbf89e89" />
-
-
-  <p align="center">
   <img width="712" height="344" alt="helius" src="https://github.com/user-attachments/assets/11467706-5150-4c15-8a69-16025d86d098" />
+
+
+    ok bye guys 👀
+
+<p align="center">
+<img width="400" height="400" alt="#telamon #blocktales" src="https://github.com/user-attachments/assets/ba73596c-b556-4c53-960a-d2e8130b8181" />
